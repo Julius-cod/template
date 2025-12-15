@@ -54,7 +54,7 @@ export const AboutBook = () => {
                 </li>
                 <li className="flex justify-between border-b border-brand-light/50 pb-2">
                   <span>Envio:</span>
-                  <span className="text-brand-white font-medium">Para todo o Brasil</span>
+                  <span className="text-brand-white font-medium">Para toda a  Angola</span>
                 </li>
               </ul>
             </div>
